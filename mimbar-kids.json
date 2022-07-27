@@ -6,10 +6,10 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"db4d5e8718b97d780",
+      "backup_ads_intertitial":"518cd97722c60b520",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"1073557790",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -23,29 +23,9 @@
     "More":
   [
     {
-      "title":"Wallpaper Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
-    },
-    {
-      "title":"Wallpaper Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
-    },
-    {
-      "title":"Guide Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/91080900_251144816278865_2820888782906064896_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
-    },
-    {
-      "title":"Guide Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/89941644_236400271086653_8098666792345403392_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
-    },
-    {
-      "title":"Wallpaper Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/94314724_271704954222851_8758771117910392832_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
+      "title":"",
+      "image":"",
+      "link":""
     }
   ],
   "Weblink":
@@ -54,38 +34,32 @@
       "title":"Kiat Ampuh Menghentikan Anak yang Kecanduan Gadget",
       "description":"Kiat Ampuh Menghentikan Anak yang Kecanduan Gadget",
       "image":"https://cdn.hellosehat.com/2019/01/2c75bcbf-belajar-membaca-700x467.jpg",
-      "link":"https://raw.githubusercontent.com/jwr01/html/main/tes.html"
+      "link":"http://app.asynsa.com/html/tes.html"
     },
     {
-      "title":"Google Drive",
-      "description":"Google Drive merupakan layanan penyimpanan online (cloud) milik Google yang telah diluncurkan sejak April 2012 yang lalu",
-      "image":"https://cdn0-production-images-kly.akamaized.net/Hh0jq3AQJxg0_YB_saUW7heb1jU=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/945648/original/055752100_1438682698-google-drive-logo-2014.jpg",
-      "link":"https://drive.google.com/"
+      "title":"5 Tips Cerdas Mengatasi Balita Susah Makan",
+      "description":"Balita yang sulit atau sering memilih-milih makanan adalah tantangan bagi orangtua",
+      "image":"https://blogpictures.99.co/anak-susah-makan.jpg",
+      "link":"http://app.asynsa.com/html/5%20Tips%20Cerdas%20Mengatasi%20Balita%20Susah%20Makan.html"
     },
     {
-      "title":"Adsense",
-      "description":"AdSense adalah program kerjasama periklanan melalui media Internet yang diselenggarakan oleh Google",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQguPPNX0Oj13E1MxO3RsG1kyPL6F-_nyxZBg&usqp=CAU",
-      "link":"https://www.google.com/adsense/start/"
+      "title":"7 Cara Menghadapi Tantrum pada Anak",
+      "description":"Tantrum adalah salah satu hal yang wajar terjadi saat masa tumbuh kembang anak, khususnya anak yang masih berusia di bawah 5 tahun. ",
+      "image":"https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tantrum-anak_20150803_143817.jpg",
+      "link":"http://app.asynsa.com/html/7%20Cara%20Menghadapi%20Tantrum%20pada%20Anak.html"
     },
-    {
-      "title":"Firebase",
-      "description":"Firebase adalah platform seluler Google yang membantu Anda mengembangkan aplikasi berkualitas tinggi dan menumbuhkan bisnis dengan cepat",
-      "image":"https://pngimage.net/wp-content/uploads/2018/06/firebase-png-6.png",
-      "link":"https://firebase.google.com/"
+      {
+      "title":"7 Cara Tingkatkan Daya Ingat Balita agar Tak Mudah Lupa",
+      "description":"Lupa merupakan hal normal yang terjadi pada orang dewasa maupun anak balita.",
+      "image":"https://cdn.popmama.com/content-images/post/20190815/artikel-anak-3-be4da45d68dc2640d123e0148b55b53f.jpg",
+      "link":"http://app.asynsa.com/html/7%20Cara%20Tingkatkan%20Daya%20Ingat%20Balita%20agar%20Tak%20Mudah%20Lupa.html"
     },
-    {
-      "title":"Admob",
-      "description":"Google AdMob adalah salah satu cara dapatkan uang dari aplikasi. Pelajari cara daftar Google AdMob dan cara menggunakannya di sini!",
-      "image":"https://lh3.googleusercontent.com/D71NOtwLFHvG8WfOO2fmSUTmbhT6ezmC0--7Si2A1BDjTSVcp6fJgAa4H-aVz-sZ2a7tcoXc7f_HBGq27lctq7mrqaOJD7tcfR_lOQ=w700-h700-p-nu-pa",
-      "link":"https://admob.google.com/intl/id/home/"
-    },
-    {
-      "title":"Google Ads",
-      "description":"Google Ads memudahkan dalam menampilkan keunikan bisnis Anda kepada publik, sehingga Anda dapat menjangkau pelanggan yang menelusuri produk",
-      "image":"https://pbs.twimg.com/profile_images/1021822138964004865/UimQskO_.jpg",
-      "link":"https://ads.google.com/intl/id_id/home/how-it-works/"
+      {
+      "title":"Cara Mendampingi dan Mengatasi Anak Hiperaktif",
+      "description":"Balita yang sulit atau sering memilih-milih makanan",
+      "image":"https://mylife.id/wp-content/uploads/2021/02/mylife-7-1.jpg",
+      "link":"http://app.asynsa.com/html/Cara%20Mendampingi%20dan%20Mengatasi%20Anak%20Hiperaktif.html"
     }
+      
   ]
-    
 }
