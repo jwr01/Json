@@ -10,8 +10,8 @@
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "base_url":"https://wadahpintar.com/panel/poke/api/",
-      "upload_url":"https://wadahpintar.com/panel/poke/uploads/",
+      "base_url":"https://app.asynsa.com/coloring/Mommy-Coloring-Playtime/api/",
+      "upload_url":"https://app.asynsa.com/coloring/Mommy-Coloring-Playtime/uploads/",
       "protect_app":"false",
       "base_64_license_key":"",
       
