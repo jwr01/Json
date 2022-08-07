@@ -1,0 +1,27 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4193223183922706/8039332348x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"4527331b8318b792x",
+      "backup_ads_intertitial":"5593743df3daa321x",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "base_url":"https://wadahpintar.com/panel/poke/api/",
+      "upload_url":"https://wadahpintar.com/panel/poke/uploads/",
+      "protect_app":"false",
+      "base_64_license_key":"",
+      
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": true,
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.aliendroid.bestcoloringsuperhero"
+    }
+  ]
+}
